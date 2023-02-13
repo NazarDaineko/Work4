@@ -1,0 +1,15 @@
+D:\Visual studio\C#\Work4\Work4\bin\Debug\net6.0\Work4.exe
+D:\Visual studio\C#\Work4\Work4\bin\Debug\net6.0\Work4.deps.json
+D:\Visual studio\C#\Work4\Work4\bin\Debug\net6.0\Work4.runtimeconfig.json
+D:\Visual studio\C#\Work4\Work4\bin\Debug\net6.0\Work4.dll
+D:\Visual studio\C#\Work4\Work4\bin\Debug\net6.0\Work4.pdb
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.csproj.AssemblyReference.cache
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.AssemblyInfoInputs.cache
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.AssemblyInfo.cs
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.csproj.CoreCompileInputs.cache
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.dll
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\refint\Work4.dll
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.pdb
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\Work4.genruntimeconfig.cache
+D:\Visual studio\C#\Work4\Work4\obj\Debug\net6.0\ref\Work4.dll
